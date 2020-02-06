@@ -1,48 +1,49 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD, School of Aquatic and Fishery Sciences
+    institution: University of Washington
+    year: 2019
+  - course: MA, Religious Studies
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: BA, Philosophy & Religious Studies
+    institution: Stanford University
+    year: 2012
+email: "zkoehn@uw.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Seafood production
+- Food systems
+- Ethics
+name: J. Zachary Koehn
 organizations:
-- name: Stanford University
+- name: 
   url: ""
-role: Professor of Artificial Intelligence
+role: PhD
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/JZKoehn
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=LqhX9P4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/zachkoehn
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zach Koehn completed his PhD at the University of Washington in 2019. Zach’s PhD research sought to improve our understanding of how sustainable seafood production can improve public health by focusing on its connection to the healthy food system. Past work experience includes academic think tanks, government contracts (NOAA), and managing a small seafood distribution business.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He lives in Central California. 
+
+

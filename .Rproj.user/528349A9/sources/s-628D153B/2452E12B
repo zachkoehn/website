@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580966131451.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "498864438",
+    "id" : "2452E12B",
+    "lastKnownWriteTime" : 1580954205,
+    "last_content_update" : 1580954205,
+    "path" : "~/website/config/_default/menus.toml",
+    "project_path" : "config/_default/menus.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
